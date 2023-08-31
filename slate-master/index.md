@@ -82,7 +82,7 @@ The workshop is composed of eleven invited talks and a poster session.
 
 ## Talks
 ### Keynote Speech 1. Prof. Onur Mutlu, ETH & CMU
-### Title: Memory-Centric Computing
+#### Title: Memory-Centric Computing
 
 Abstract:
 
@@ -94,7 +94,7 @@ Onur Mutlu is a Professor of Computer Science at ETH Zurich. He is also a facult
 His longer CV is at https://people.inf.ethz.ch/omutlu/doc/onur_cv.pdf.
 
 ### Keynote Speech 2. Prof. Yu (Kevin) Cao, University of Minnesota
-### Title: HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling
+#### Title: HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling
 
 Abstract:
 
@@ -105,7 +105,7 @@ Bio:
 Yu (Kevin) Cao, Professor, IEEE Fellow, University of Minnesota. His research interests include neural-inspired computing, hardware design for on-chip learning, and reliable integration of nanoelectronics. He is a Distinguished Lecturer of the IEEE Circuits and Systems Society, and the Specialty Chief Editor of Frontiers in Electronics.
 
 ### Invited Talk 1. Prof. Huaqiang Wu, Tsinghua University
-### Title: Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System
+#### Title: Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System
 
 Abstract:
 
@@ -116,7 +116,7 @@ Bio:
 Professor Huaqiang Wu is currently the dean of School of Integrated Circuits of Tsinghua University, and the deputy director of Beijing Innovation Center for Integrated Circuits. He has published more than 200 SCI papers in journals, such as Nature, Nature Electronics, Nature Communications etc., and top international conferences on integrated circuits, such as ISSCC, IEDM, VLSI. He has owned more than 100 authorized invention patents in U.S. and China, incubated 4 high-tech companies, and realized the industrialization of ReRAM technology.
 
 ### Invited Talk 2. Dr. Abbas Rahimi, IBM
-### Title: A neuro-vector-symbolic architecture for data- and compute-efficient continual learning, abstract reasoning, and combinatorial inference
+#### Title: A neuro-vector-symbolic architecture for data- and compute-efficient continual learning, abstract reasoning, and combinatorial inference
 
 Abstract:
 
@@ -127,7 +127,7 @@ Bio:
 Abbas Rahimi received the M.S. and Ph.D. degrees from the University of California San Diego in 2015, followed by postdoctoral researches at the University of California Berkeley, and at the ETH Zürich. In 2020, he joined the IBM Research-Zürich laboratory as a Research Staff Member. Dr. Rahimi received the 2015 Outstanding Dissertation Award from EDAA, and the ETHZ Postdoctoral Fellowship in 2017.
 
 ### Invited Talk 3. Prof. Li Jiang, Shanghai Jiao Tong University & Huawei
-### Title: Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products
+#### Title: Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products
 
 Abstract:
 
@@ -138,7 +138,7 @@ Bio:
 Li Jiang, Associate Professor in Dept. CSE of Shanghai Jiao Tong University. He is interested in computer architecture and design automation. He has published nearly 100 papers in international conferences and journals, such as DAC, TCAD, ISCA, MICRO, DATE, TC, TVLSI, etc. He has received two best papers and many best paper nominations in DATE and ICCAD. He has also received early career awards from ACM China, CCF, IEEE TTTC, and CAAI. He is also the Chief Technologist and Scientist of heterogeneous communication processor technology at Huawei.
 
 ### Invited Talk 4. Prof. Xiaoming Chen, ICT, Chinese Academy of Sciences
-### Title: EDA Toolchain for Processing-in-Memory CNN Accelerators
+#### Title: EDA Toolchain for Processing-in-Memory CNN Accelerators
 
 Abstract:
 
@@ -149,7 +149,7 @@ Bio:
 Xiaoming Chen, Associate Professor, Institute of Computing Technology, Chinese Academy of Sciences. His research interests include EDA and computer architecture. He was awarded the Excellent Young Scientists Fund of NSFC in 2021. He received 2015 EDAA Outstanding Dissertation Award and 2018 Alibaba DAMO Academy Young Fellow Award.
 
 ### Invited Talk 5. Prof. Fengbin Tu, HKUST
-### Title: Digital Computing-In-Memory Architecture and Design Automation
+#### Title: Digital Computing-In-Memory Architecture and Design Automation
 
 Abstract:
 
@@ -160,7 +160,7 @@ Bio:
 Fengbin Tu is an Assistant Professor at HKUST. His research interests include AI chip, computer architecture, reconfigurable computing, and computing-in-memory. He designed the AI chip Thinker and won the 2017 ISLPED Design Contest Award. Dr. Tu’s research has been published at top conferences and journals on integrated circuits and computer architecture, including ISSCC, JSSC, DAC, and ISCA.
 
 ### Invited Talk 6. Prof. Grace Li Zhang, TU Darmstadt
-### Title: Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks
+#### Title: Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks
 
 Abstract:
 
@@ -171,7 +171,7 @@ Bio:
 Grace Li Zhang joined TU Darmstadt as an Assistant Professor on Hardware for AI in 2022. Her research focuses on hardware acceleration for AI algorithms and systems, AI computing with emerging devices, and neuromorphic computing. She has served/is serving on the technical committee of several conferences including DAC, ICCAD, ASP-DAC, etc.
 
 ### Invited Talk 7. Prof. Yaoyu Tao, Peking University
-### Title: Fast and Reconfigurable Sort-In-Memory System Enabled By Memristors
+#### Title: Fast and Reconfigurable Sort-In-Memory System Enabled By Memristors
 
 Abstract:
 
@@ -184,7 +184,7 @@ Yaoyu Tao received the B.S., M.S., and Ph.D. degrees in electrical engineering f
 
 ### Senior Ph.D. Student Talk 1. Mr. Yuan-Chun Luo, GIT.
 ### Advisor: Prof. Shimeng Yu
-### Title: Benchmarking framework for non-volatile capacitive compute-in-memory
+#### Title: Benchmarking framework for non-volatile capacitive compute-in-memory
 
 Abstract:
 
@@ -196,7 +196,7 @@ Yuan-Chun Luo is a fifth-year PhD student in Georgia Tech supervised by Prof. Sh
 
 ### Senior Ph.D. Student Talk 2. Mr. Shiyu Li, Duke.
 ### Advisor: Prof. Yiran Chen
-### Title: Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization
+#### Title: Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization
 
 Abstract:
 
