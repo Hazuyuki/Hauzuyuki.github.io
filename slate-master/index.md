@@ -25,57 +25,57 @@ The workshop is composed of eleven invited talks and a poster session.
 
 > 09:00-09:05 Prof. Yu Wang, Tsinghua University
 > 
->             Opening
+> Opening
 > 
 > 09:05-09:45 Prof. Onur Mutlu, ETH & CMU
 > 
->             Memory-Centric Computing
+> Memory-Centric Computing
 > 
 > 09:45-10:15 Prof. Huaqiang Wu, Tsinghua University
 > 
->             Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System
+> Full-stack Deployment and Design tools for RRAM-based Compute-in-memory System
 > 
 > 10:15-10:30 Coffee Break
 > 
 > 10:30-11:00 Dr. Abbas Rahimi, IBM
 > 
->             A Neuro-Vector-Symbolic Architecture for Data- and Compute-Efficient Continual Learning, Abstract Reasoning, and Combinatorial Inference
+> A Neuro-Vector-Symbolic Architecture for Data- and Compute-Efficient Continual Learning, Abstract Reasoning, and Combinatorial Inference
 > 
 > 11:00-11:30 Prof. Li Jiang, Shanghai Jiao Tong University & Huawei
 > 
->             Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products
+> Opportunities and Challenges for Process-In-Memory (PIM) Technology in ICT Products
 > 
 > 11:30-12:00 Prof. Xiaoming Chen, ICT, Chinese Academy of Sciences
 > 
->             EDA Toolchain for Processing-in-Memory CNN Accelerators
+> EDA Toolchain for Processing-in-Memory CNN Accelerators
 > 
 > 12:00-13:30 Lunch & Poster Sharing Sessions
 > 
 > 13:30-14:10 Prof. Yu (Kevin) Cao, University of Minnesota
 > 
->             HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling
+> HISIM: Heterogeneous Integration Simulator with 2.5D/3D Interconnect Modeling
 > 
 > 14:10-14:40 Prof. Fengbin Tu, HKUST
 > 
->             Digital Computing-In-Memory Architecture and Design Automation
+> Digital Computing-In-Memory Architecture and Design Automation
 > 
 > 14:40-15:10 Prof. Grace Li Zhang, TU Darmstadt
 > 
->             Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks
+> Robust and Efficient Analog In-Memory-Computing Platforms for Neural Networks
 > 
 > 15:10-15:25 Coffee Break
 > 
 > 15:25-15:55 Prof. Yaoyu Tao, Peking University
 > 
->             Fast and Reconfigurable Sort-In-Memory System Enabled by Memristors
+> Fast and Reconfigurable Sort-In-Memory System Enabled by Memristors
 >
 > 15:55-16:20 Mr. Yuan-Chun Luo, GIT, advisor: Prof. Shimeng Yu
 > 
->             Benchmarking Framework for Non-volatile Capacitive Compute-in-Memory
+> Benchmarking Framework for Non-volatile Capacitive Compute-in-Memory
 > 
 > 16:20-16:45 Mr. Shiyu Li, Duke, advisor: Prof. Yiran Chen
 > 
->             Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization
+> Towards Efficient Processing in Memory AI Systems with Cross-layer Optimization
 > 
 > 16:45-16:50 Closing Remark
 
